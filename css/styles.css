@@ -1,0 +1,136 @@
+
+.navbar{
+	background-color: blue;
+}
+
+.navbar a{
+	color: white!important;
+}
+
+.navbar a.navbar-brand{
+	color: white!important;
+}
+
+
+.navbar a.active{
+	color: white!important;
+}
+
+.intro{
+	position:relative;
+	min-height: 700px;
+	background-image: url("../img/pics1.jpg");
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+.jumbotron{
+	margin-top: 40px;
+	opacity: 0.9;
+    
+}
+
+.school-features{
+	color: blue;
+	padding-bottom: 200px;
+
+}
+
+.feature{
+	min-height: 150px;
+	padding-bottom: 50px;border-style: solid;
+	border-color: white;
+	border-width: 1px;
+	border-radius: 2px;
+
+	
+}
+
+/****school result ****/
+.catalog-search{
+	margin-left: auto !important;
+	margin-right:auto !important;
+	margin-top: 25px !important;
+}
+
+.search-result{
+	height:auto;
+	margin-top: 20px;
+	padding-bottom: 50px;
+	color: black;
+}
+
+.search-result > .row > div{
+	padding-bottom: 50px;
+}
+
+.result{
+	min-height:100px;
+	margin-top:4px;
+	margin-bottom: 4px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-style: solid;
+	border-color: blue;
+	border-width: 1px;
+	border-radius: 2px;
+}
+
+.result > h4 {
+	margin:6px;
+	color:black;
+}
+
+
+
+/****School Profile*****/
+.school-name{
+	color: black;
+	padding: 20px;
+}
+
+
+.school-about{
+	color: black;
+}
+
+.-details{
+	color:black;
+}
+
+.school-vote {
+	color: black;
+}
+
+.school-reviews{
+	color: black;
+	padding-bottom: 100px;
+    padding-top: 50px;
+
+}
+
+.review{
+	color:black;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 2px;
+	margin-bottom: 20px;
+	padding: 1%;
+}
+
+.add-review{
+	padding-bottom: 50px;
+	color: black;
+	opacity: 0.7;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 2px;
+}
+
+footer{
+	height: 35px;
+	background-color: black;
+}
+
